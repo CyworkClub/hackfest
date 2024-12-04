@@ -1,2 +1,1 @@
-# hackfest
-hackfest machine v1
+# hackfest-2024
