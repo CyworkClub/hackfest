@@ -1,4 +1,6 @@
-# hackfest-2024
+# hackfes
+
+## Hackfest 2024
 
 this is the first machine we use it as CTF base playing game 
 
